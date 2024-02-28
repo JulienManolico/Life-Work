@@ -1,4 +1,0 @@
-﻿  FileName.cpp
-C:\Users\User\source\repos\Adivinha\FileName.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\User\source\repos\Adivinha\FileName.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Adivinha.vcxproj -> C:\Users\User\source\repos\Adivinha\x64\Debug\Adivinha.exe
