@@ -1,2 +1,0 @@
-# Life-Work
-Programming Work!
